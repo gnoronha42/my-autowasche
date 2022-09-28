@@ -1,0 +1,22 @@
+{
+  "name": "my-autowasche",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.23",
+    "@types/react": "^18.0.21"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5",
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-query": "^3.39.2",
+    "styled-components": "^5.3.6"
+  }
+}
